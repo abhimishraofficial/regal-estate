@@ -9,6 +9,10 @@ import {
 import { verifyToken } from "../utils/verifyToken";
 
 const router = express.Router();
+router.get("/", (req, res) => {
+  res.status(200).json({ message: "Listing API is working!" });
+});
+
 
 router.post("/create", verifyToken, createListing);
 router.delete("/delete/:id", verifyToken, deleteListing);
