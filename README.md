@@ -63,7 +63,7 @@ Welcome to Regal Estate, a comprehensive real estate marketplace built using the
 #### Clone the repository:
 
   ```
-      git clone https://github.com/tanishkadeep/Regal-Estate.git
+      git clone https://github.com/abhimishraofficial/Regal-Estate.git
       cd regal-estate
   ```
 
@@ -112,6 +112,6 @@ Welcome to Regal Estate, a comprehensive real estate marketplace built using the
 
 ---
 
-📬 Thank you for checking out RegalEstate! If you have any questions or feedback, feel free to open an issue or contact me at tanishkadeep09@gmail.com
+📬 Thank you for checking out RegalEstate! If you have any questions or feedback, feel free to open an issue or contact me at shashankmishrahjp@gmail.com
 
 ---
